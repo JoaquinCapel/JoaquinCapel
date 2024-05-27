@@ -1,6 +1,7 @@
-<div id="header" align="center">
-  ## Hi there 👋 ! My name is Joaquín Capel
+## Hi there 👋 ! My name is Joaquín Capel
 
+
+<div id="header" align="center">
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 </div>
 
