@@ -6,3 +6,5 @@
 
 ## TECH SKILLS
 ![Static Badge](https://img.shields.io/badge/Angular-pink?logo=Angular&color=magenta)
+![Static Badge](https://img.shields.io/badge/TypeScript-blue?logo=Typescript&labelColor=black)
+
