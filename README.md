@@ -23,10 +23,10 @@ I am a **Front-end Developer** with a passion for creativity and technology, com
 ## SOFT SKILLS
 
 - 🎨 **Creativity**: Bringing innovative ideas to life.
-- 🧩 **Problem Solving**: Tackling challenges with effective solutions.
+- 🧩 **Problem Solving**: Fixing challenges with effective solutions.
 - ⏰ **Efficient Time Management**: Prioritizing tasks to meet deadlines.
 - 🔍 **Attention to Detail**: Ensuring high-quality results.
-- 🌟 **Adaptability**: Thriving in dynamic environments.
+- 🌟 **Adaptability**: Excelling in dynamic environments.
 
 Feel free to explore my repositories and projects to see my work in action!
 
