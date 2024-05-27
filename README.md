@@ -6,7 +6,8 @@
 
 # About Me
 
-I am a **Front-end Developer** specializing in **Angular**, driven by a passion for creativity and technology. Crafting engaging and user-friendly web experiences is at the heart of what I do. Dedicated to continuous growth, I thrive on the challenges of the ever-evolving tech landscape. With extensive experience in overcoming obstacles during product launches, I focus on teamwork and continuous learning.
+I am a **Front-end Developer** specializing in **Angular**, driven by a passion for creativity and technology. Creating intuitive and captivating web experiences
+is at the heart of what I do. Dedicated to continuous growth, I adapt perfectly to the rapid changes in the sector. With extensive experience in overcoming obstacles during product launches, I focus on teamwork and continuous learning.
 
 **Together, we can create innovative and impactful solutions! 🚀**
 
