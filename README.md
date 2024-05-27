@@ -4,8 +4,6 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding GIF"/>
 </div>
 
-# About Me
-
 I am a **Front-end Developer** specializing in **Angular**, driven by a passion for creativity and technology. Creating intuitive and captivating web experiences
 is at the heart of what I do. Dedicated to continuous growth, I adapt perfectly to the rapid changes in the sector. With extensive experience in overcoming obstacles during product launches, I focus on teamwork and continuous learning.
 
