@@ -10,6 +10,9 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=orange&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/CSS-%23264de4?style=for-the-badge&logo=css3&logoColor=%23264de4&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=Bootstrap&logoColor=purple&labelColor=black)
+![Static Badge](https://img.shields.io/badge/NodeJs-green?style=for-the-badge&logo=Node.js&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Mysql-%2300758f?style=for-the-badge&logo=mysql&labelColor=black)
 
 
 
