@@ -10,6 +10,7 @@ is at the heart of what I do. Dedicated to continuous growth, I adapt perfectly 
 
 **Together, we can create ingenious and impactful solutions! 🚀**
 
+
 ## Tech Skills
 ![Static Badge](https://img.shields.io/badge/Angular-magenta?style=for-the-badge&logo=Angular&logoColor=magenta&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=Typescript&labelColor=black)
@@ -20,6 +21,7 @@ is at the heart of what I do. Dedicated to continuous growth, I adapt perfectly 
 ![Static Badge](https://img.shields.io/badge/NodeJs-green?style=for-the-badge&logo=Node.js&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/MySQL-%2300758f?style=for-the-badge&logo=mysql&labelColor=black)
 
+
 ## Soft Skills
 
 - 🎨 **Creativity**: Bringing innovative ideas to life.
@@ -28,15 +30,16 @@ is at the heart of what I do. Dedicated to continuous growth, I adapt perfectly 
 - 🔍 **Attention to Detail**: Ensuring high-quality results.
 - 🌟 **Adaptability**: Excelling in dynamic environments.
 
+
 ## Projects
 
-### 🚀 Cinema Clap (In Progress)
+### 🎬 Cinema Clap (In Progress)
 Angular application facilitating connections among individuals interested in watching and discussing movies in their original language. Users can select a film and create corresponding events.
 
 - **[Cinema Clap - Front](https://github.com/JoaquinCapel/cinemaclapfront)**
 - **[Cinema Clap - Back](https://github.com/JoaquinCapel/cinemaclapback)**
 
-### 🚀 ITA Challenges (In Progress)
+### 📚 ITA Challenges (In Progress)
 ITA Challenges serves as a coding practice platform designed for students enrolled in the IT Academy. It aims to enhance coding skills through a series of challenges categorized by difficulty levels and programming languages. This collaborative effort involved 9 contributors, including individuals proficient in frontend with **Angular** and backend with **Java** development.
 
 - **[ITA Challenges - Front](https://github.com/IT-Academy-BCN/ita-challenges-frontend)**
@@ -49,5 +52,6 @@ With a 23-year track record at the same company, I am known for my commitment, s
 My true passion lies at the intersection of creativity and technology. This led me to explore programming, music production, and video creation. In 2016, I started my Bachelor's Degree in Communication and later became a Front-End Developer at the IT Academy of Barcelona Activa.
 
 My goal is to continue expanding my programming knowledge and contribute to innovative projects with my solid experience and renewed passion.
+
 
 **Feel free to explore my repositories and projects to see my work in action!** 🕵️‍♂️
