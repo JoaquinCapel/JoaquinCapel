@@ -30,16 +30,15 @@ I am a **Front-end Developer** with a passion for creativity and technology, com
 
 ## A Little Bit of My Story
 
-With a solid 23-year track record at the same company, I have developed a reputation as a committed, stable, and loyal employee. During this time, I faced significant challenges, especially during new product launches where teamwork was crucial. In these situations, I actively contributed and played an essential role in achieving goals under intense pressure.
+With a 23-year track record at the same company, I am known for my commitment, stability, and loyalty. I have faced significant challenges, especially during product launches where teamwork was essential.
 
-However, my true passion lies at the intersection of creativity and technology. My fascination with programming, the audiovisual world, and multimedia content led me to take a decisive turn in my career. After exploring music production and video creation through various courses, I decided to pursue what I am truly passionate about: programming.
+My true passion lies at the intersection of creativity and technology. This led me to explore programming, music production, and video creation. In 2016, I started my Bachelor's Degree in Communication, and later, I became a Front-End Developer at the IT Academy of Barcelona Activa.
 
-In 2016, I decided to start my Bachelor's Degree in Communication at the Universitat Oberta de Catalunya, where I had my first encounter with the world of programming. Years later, I chose to invest more time and effort to become a Front-End Developer at the IT Academy of Barcelona Activa.
+My goal is to continue expanding my programming knowledge and contribute to innovative projects with my solid experience and renewed passion.
+Esta versión mantiene los puntos clave y es más concisa, lo que facilita su lectura y captura la 
 
-My current goal is to continue expanding my knowledge in the programming sector, merging my solid experience with the renewed passion I discovered a few years ago. I am ready to prove my worth and significantly contribute to innovative projects.
 
-
-Feel free to explore my repositories and projects to see my work in action!
+**Feel free to explore my repositories and projects to see my work in action!**
 
 
 
