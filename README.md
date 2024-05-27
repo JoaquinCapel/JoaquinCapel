@@ -28,6 +28,20 @@ is at the heart of what I do. Dedicated to continuous growth, I adapt perfectly 
 - 🔍 **Attention to Detail**: Ensuring high-quality results.
 - 🌟 **Adaptability**: Excelling in dynamic environments.
 
+## Projects
+
+### 🌱 Cinema Clap (In Development)
+Angular application facilitating connections among individuals interested in watching and discussing movies in their original language. Users can select a film and create corresponding events.
+
+- **Cinema Clap - Front:** [Cinema Clap - Fornt]([URL-del-repositorio-front](https://github.com/JoaquinCapel/cinemaclapfront))
+- **Cinema Clap - Back:** [Cinema Clap - Back]([URL-del-repositorio-back](https://github.com/JoaquinCapel/cinemaclapback))
+
+### 🌱 ITA Challenges (Ongoing Development)
+ITA Challenges serves as a coding practice platform designed for students enrolled in the IT Academy. It aims to enhance coding skills through a series of challenges categorized by difficulty levels and programming languages. This collaborative effort involved 9 contributors, including individuals proficient in frontend (Angular) and backend (Java) development.
+
+- **ITA Challenges - Front:** [ITA-Challenges-Front]([URL-del-repositorio-front](https://github.com/IT-Academy-BCN/ita-challenges-frontend))
+
+
 ## About Me
 
 With a 23-year track record at the same company, I am known for my commitment, stability, and loyalty. I have faced significant challenges, especially during product launches where teamwork was essential.
