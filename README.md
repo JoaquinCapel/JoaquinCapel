@@ -9,7 +9,7 @@
 I am a **Front-end Developer** specializing in **Angular**, driven by a passion for creativity and technology. Creating intuitive and captivating web experiences
 is at the heart of what I do. Dedicated to continuous growth, I adapt perfectly to the rapid changes in the sector. With extensive experience in overcoming obstacles during product launches, I focus on teamwork and continuous learning.
 
-**Together, we can create innovative and impactful solutions! 🚀**
+**Together, we can create ingenious and impactful solutions! 🚀**
 
 ## Tech Skills
 ![Static Badge](https://img.shields.io/badge/Angular-magenta?style=for-the-badge&logo=Angular&logoColor=magenta&labelColor=black)
@@ -37,4 +37,4 @@ My true passion lies at the intersection of creativity and technology. This led 
 
 My goal is to continue expanding my programming knowledge and contribute to innovative projects with my solid experience and renewed passion.
 
-🔍 **Feel free to explore my repositories and projects to see my work in action!**
+🕵️‍♂️ **Feel free to explore my repositories and projects to see my work in action!**
