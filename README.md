@@ -3,6 +3,7 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 </div>
+
 # About Me
 
 I am a **Front-end Developer** with a passion for creativity and technology, committed and constantly evolving. Experienced in overcoming challenges during product launches with a strong focus on teamwork and continuous learning.
