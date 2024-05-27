@@ -28,7 +28,7 @@ is at the heart of what I do. Dedicated to continuous growth, I adapt perfectly 
 - 🔍 **Attention to Detail**: Ensuring high-quality results.
 - 🌟 **Adaptability**: Excelling in dynamic environments.
 
-## ABOUT ME
+## About Me
 
 With a 23-year track record at the same company, I am known for my commitment, stability, and loyalty. I have faced significant challenges, especially during product launches where teamwork was essential.
 
