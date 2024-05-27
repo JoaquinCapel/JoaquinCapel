@@ -1,7 +1,7 @@
 ## Hi there 👋 ! My name is Joaquín Capel
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 </div>
 
 I am a **Front-end Developer** with a passion for creativity and technology, committed and constantly evolving. Experienced in overcoming challenges during product launches with a strong focus on teamwork and continuous learning.
