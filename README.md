@@ -37,7 +37,7 @@ Angular application facilitating connections among individuals interested in wat
 - **[Cinema Clap - Back](https://github.com/JoaquinCapel/cinemaclapback)**
 
 ### 🚀 ITA Challenges (In Progress)
-ITA Challenges serves as a coding practice platform designed for students enrolled in the IT Academy. It aims to enhance coding skills through a series of challenges categorized by difficulty levels and programming languages. This collaborative effort involved 9 contributors, including individuals proficient in frontend (Angular) and backend (Java) development.
+ITA Challenges serves as a coding practice platform designed for students enrolled in the IT Academy. It aims to enhance coding skills through a series of challenges categorized by difficulty levels and programming languages. This collaborative effort involved 9 contributors, including individuals proficient in frontend with **Angular** and backend with **Java** development.
 
 - **[ITA Challenges - Front](https://github.com/IT-Academy-BCN/ita-challenges-frontend)**
 
