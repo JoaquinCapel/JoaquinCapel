@@ -35,7 +35,6 @@ With a 23-year track record at the same company, I am known for my commitment, s
 My true passion lies at the intersection of creativity and technology. This led me to explore programming, music production, and video creation. In 2016, I started my Bachelor's Degree in Communication, and later, I became a Front-End Developer at the IT Academy of Barcelona Activa.
 
 My goal is to continue expanding my programming knowledge and contribute to innovative projects with my solid experience and renewed passion.
-Esta versión mantiene los puntos clave y es más concisa, lo que facilita su lectura y captura la 
 
 
 **Feel free to explore my repositories and projects to see my work in action!**
