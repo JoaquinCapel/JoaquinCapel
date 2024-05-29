@@ -56,3 +56,5 @@ My goal is to continue expanding my programming knowledge and contribute to inno
 
 
 **Feel free to explore my repositories and projects to see my work in action!** 🕵️‍♂️
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaquincapel&show_icons=true&locale=en&layout=compact" alt="joaquincapel" /></p>
