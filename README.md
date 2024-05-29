@@ -22,6 +22,11 @@ is at the heart of what I do. Dedicated to continuous growth, I adapt perfectly 
 ![Static Badge](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=Bootstrap&logoColor=purple&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/NodeJs-green?style=for-the-badge&logo=Node.js&labelColor=black)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaquincapel&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="joaquincapel" />
+</p>
+
+
 
 ## Soft Skills
 
@@ -56,8 +61,4 @@ My goal is to continue expanding my programming knowledge and contribute to inno
 
 
 **Feel free to explore my repositories and projects to see my work in action!** 🕵️‍♂️
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaquincapel&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="joaquincapel" />
-</p>
 
