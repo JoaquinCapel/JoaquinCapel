@@ -48,11 +48,11 @@ ITA Challenges serves as a coding practice platform designed for students enroll
 
 ## About Me
 
-With a 23-year track record at the same company, I am known for my commitment, stability, and loyalty. I have faced significant challenges, especially during product launches where teamwork was essential.
+With a 23-year track record at the same company, I am known for my commitment, stability and loyalty. I have faced significant challenges, especially during product launches where teamwork was essential.
 
 My true passion lies at the intersection of creativity and technology. This led me to explore programming, music production, and video creation. In 2016, I started my Bachelor's Degree in Communication and later became a Front-End Developer at the IT Academy of Barcelona Activa.
 
-My goal is to continue expanding my programming knowledge and contribute to innovative projects with my solid experience and renewed passion.
+My goal is to continue expanding my programming knowledge and contribute to innovative projects with my enthusiasm to learn and colaborate.
 
 
 **Feel free to explore my repositories and projects to see my work in action!** 🕵️‍♂️
