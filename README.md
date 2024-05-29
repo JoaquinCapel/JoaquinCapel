@@ -1,5 +1,7 @@
 ## Hi there 👋! My name is Joaquín Capel
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaquincapel&label=Profile%20views&color=0e75b6&style=flat" alt="joaquincapel" /> </p>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding GIF"/>
 </div>
